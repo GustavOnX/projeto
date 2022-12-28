@@ -1,1 +1,2 @@
-ola esse projeto esina voce a usar o git
+Olá esse projeto esina você a usar o Git
+isso é uma alteração
